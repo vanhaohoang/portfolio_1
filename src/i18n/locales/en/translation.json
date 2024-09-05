@@ -1,0 +1,21 @@
+{
+  "tab": {
+    "posts": "Posts",
+    "snippets": "CVs",
+    "projects": "Projects"
+  },
+  "intro": {
+    "title": "👋 Hi! I'm Hao",
+    "description": "an AI Engineer passionate about Large Language Models, continuously exploring the intersection of research and practical applications",
+    "link": "Take a Look"
+  },
+  "dateFormat": "MMM dd, yyyy",
+  "comment": {
+    "title": "Comments",
+    "btn": "Click to Comment",
+    "owner": "Author"
+  },
+  "projects": {
+    "title": "Projects"
+  }
+}
