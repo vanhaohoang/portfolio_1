@@ -80,7 +80,7 @@ export default function Main() {
   }, [darkModeEnabled]);
 
   const onToggleLanguage = useCallback(() => {
-    changeLanguage(i18n.language === 'cn' ? 'en' : 'cn');
+    changeLanguage(i18n.language === 'vn' ? 'en' : 'vn');
     localStorage.setItem('language', i18n.language);
   }, []);
 
