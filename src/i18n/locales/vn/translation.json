@@ -1,0 +1,21 @@
+{
+  "tab": {
+    "posts": "Bài viết",
+    "snippets": "CV",
+    "projects": "Dự án"
+  },
+  "intro": {
+    "title": "👋 Xin chào! Tôi là Hao",
+    "description": "một Kỹ sư AI đam mê các Mô hình Ngôn ngữ Lớn, liên tục khám phá giao điểm giữa nghiên cứu và ứng dụng thực tiễn",
+    "link": "Xem Ngay"
+  },
+  "dateFormat": "MMM dd, yyyy",
+  "comment": {
+    "title": "Nhận xét",
+    "btn": "Nhấp để Nhận xét",
+    "owner": "Tác giả"
+  },
+  "projects": {
+    "title": "Dự án"
+  }
+}

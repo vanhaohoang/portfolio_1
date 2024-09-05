@@ -1,12 +1,12 @@
 {
   "tab": {
     "posts": "Posts",
-    "snippets": "Snippets",
+    "snippets": "CVs",
     "projects": "Projects"
   },
   "intro": {
-    "title": "👋 Hi! I'm Harrie",
-    "description": "A full-stack web developer, focuses on Node.js, Vue, React and other technologies",
+    "title": "👋 Hi! I'm Hao",
+    "description": "an AI Engineer passionate about Large Language Models, continuously exploring the intersection of research and practical applications",
     "link": "Take a Look"
   },
   "dateFormat": "MMM dd, yyyy",
